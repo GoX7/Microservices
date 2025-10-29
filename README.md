@@ -113,6 +113,3 @@ PostgreSQL:    localhost:5432
 ## License / Лицензия
 
 MIT License — свободное использование и модификация проекта.
-
-Хочешь, я сразу создам этот `README.md` как файл в `/services_extracted/services/README.md`, чтобы ты мог скачать его и положить в репозиторий?
-```
